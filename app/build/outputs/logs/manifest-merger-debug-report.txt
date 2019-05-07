@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\f79d4a556dfe6a198f1ad1cc7c2261fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4ba8ee979c3003b9d42b47956ee9e442\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\dfd0e7f81fd258ab7c036af43d5b295d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\6fbd3b34d3614792f5207e7afcead921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\087b549441ece10aebee63571bbfa72d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4768d45f1ed5bea4bf922073087b1a1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\e2ae379d82621ff01686a0f8f65f6ac9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5373d40517bb5e465690102180d9ee55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\02c8a21c5544b09c8cc1f663635a581d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5eddc899ec5f3f92151181b7708733d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\25f95eac2a67f2f3547e9980e9897dc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5b1c0df9108c2a0292bb018aafb1cbea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\516e346c6f166810c4d74501c0f5a468\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc85859fd1980e284f4edcabcf9cd18f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\703a62a0f53b3358e42ffb90a516c62b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc1b0bb5ca9ff4dc84b095cca5e2dcb5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\53569f02389f1ea09cd4d015ef1e44cb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5cb027e9ecb4ba31734883dc15b23b46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\8bc8783f13d4a5b6e1d7f15535847e58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\20683801f8e213e1e1c8e5e9b2709212\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\6aa9e89f95a173f28797424c2f4dcbd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\8d8263a5244bc110ca6cbf5c62c84fb0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\64ce619e79f35cfe6296feabeb5e4341\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4a78f2c3d31b25e2a6e38edf9fb0f188\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\54fc8b57beb10d8b81ab9f5614cf2e24\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\7b36f00453480c70bbb1f57b37530bd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\7e42546c4fd6fe1af9fbb00fc4550499\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4ba8ee979c3003b9d42b47956ee9e442\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4ba8ee979c3003b9d42b47956ee9e442\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc1b0bb5ca9ff4dc84b095cca5e2dcb5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc1b0bb5ca9ff4dc84b095cca5e2dcb5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\53569f02389f1ea09cd4d015ef1e44cb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\53569f02389f1ea09cd4d015ef1e44cb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc1b0bb5ca9ff4dc84b095cca5e2dcb5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.crickettemperature.MainActivity
+ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\f79d4a556dfe6a198f1ad1cc7c2261fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\f79d4a556dfe6a198f1ad1cc7c2261fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4ba8ee979c3003b9d42b47956ee9e442\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4ba8ee979c3003b9d42b47956ee9e442\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\dfd0e7f81fd258ab7c036af43d5b295d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\dfd0e7f81fd258ab7c036af43d5b295d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\6fbd3b34d3614792f5207e7afcead921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\6fbd3b34d3614792f5207e7afcead921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\087b549441ece10aebee63571bbfa72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\087b549441ece10aebee63571bbfa72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4768d45f1ed5bea4bf922073087b1a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4768d45f1ed5bea4bf922073087b1a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\e2ae379d82621ff01686a0f8f65f6ac9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\e2ae379d82621ff01686a0f8f65f6ac9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5373d40517bb5e465690102180d9ee55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5373d40517bb5e465690102180d9ee55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\02c8a21c5544b09c8cc1f663635a581d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\02c8a21c5544b09c8cc1f663635a581d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5eddc899ec5f3f92151181b7708733d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5eddc899ec5f3f92151181b7708733d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\25f95eac2a67f2f3547e9980e9897dc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\25f95eac2a67f2f3547e9980e9897dc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5b1c0df9108c2a0292bb018aafb1cbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5b1c0df9108c2a0292bb018aafb1cbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\516e346c6f166810c4d74501c0f5a468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\516e346c6f166810c4d74501c0f5a468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc85859fd1980e284f4edcabcf9cd18f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc85859fd1980e284f4edcabcf9cd18f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\703a62a0f53b3358e42ffb90a516c62b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\703a62a0f53b3358e42ffb90a516c62b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc1b0bb5ca9ff4dc84b095cca5e2dcb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\bc1b0bb5ca9ff4dc84b095cca5e2dcb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\53569f02389f1ea09cd4d015ef1e44cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\53569f02389f1ea09cd4d015ef1e44cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5cb027e9ecb4ba31734883dc15b23b46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\5cb027e9ecb4ba31734883dc15b23b46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\8bc8783f13d4a5b6e1d7f15535847e58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\8bc8783f13d4a5b6e1d7f15535847e58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\20683801f8e213e1e1c8e5e9b2709212\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\20683801f8e213e1e1c8e5e9b2709212\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\6aa9e89f95a173f28797424c2f4dcbd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\6aa9e89f95a173f28797424c2f4dcbd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\8d8263a5244bc110ca6cbf5c62c84fb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\8d8263a5244bc110ca6cbf5c62c84fb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\64ce619e79f35cfe6296feabeb5e4341\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\64ce619e79f35cfe6296feabeb5e4341\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4a78f2c3d31b25e2a6e38edf9fb0f188\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\4a78f2c3d31b25e2a6e38edf9fb0f188\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\54fc8b57beb10d8b81ab9f5614cf2e24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\54fc8b57beb10d8b81ab9f5614cf2e24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\7b36f00453480c70bbb1f57b37530bd4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\7b36f00453480c70bbb1f57b37530bd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\7e42546c4fd6fe1af9fbb00fc4550499\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\danja\.gradle\caches\transforms-2\files-2.1\7e42546c4fd6fe1af9fbb00fc4550499\AndroidManifest.xml:20:5-44
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\OneDrive\Engineering\Android\CricketTemperature\app\src\main\AndroidManifest.xml
