@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/primary_light"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -25,7 +26,9 @@
         android:layout_marginStart="@dimen/start_margin"
         android:layout_marginTop="@dimen/top_margin"
         android:layout_marginEnd="@dimen/end_margin"
-        android:text="@string/cricket_inst" />
+        android:text="@string/cricket_inst"
+        android:textColor="@color/primary_text"
+        android:textStyle="bold" />
 
     <EditText
         android:id="@+id/etChirps"
@@ -37,7 +40,8 @@
         android:ems="10"
         android:hint="@string/et_hint"
         android:inputType="number"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:textColor="@color/secondary_text" />
 
     <Button
         android:id="@+id/btnCalcTemp"
@@ -46,7 +50,10 @@
         android:layout_marginStart="@dimen/start_margin"
         android:layout_marginTop="@dimen/top_margin"
         android:layout_marginEnd="@dimen/end_margin"
-        android:text="@string/btn_calc_temp" />
+        android:background="@color/primary"
+        android:text="@string/btn_calc_temp"
+        android:textColor="@color/primary_light"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/tvOutputTemp"

@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.text.DecimalFormat;
 
@@ -34,17 +35,24 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view){
                 String cricketChirps = etChirps.getText().toString().trim();
 
-                int chirps = Integer.parseInt(cricketChirps);
+                if(cricketChirps.isEmpty())
+                {
+                    Toast.makeText(MainActivity.this, "Please enter number of chirps",
+                            Toast.LENGTH_SHORT).show();
+                }
+                else {
+                    int chirps = Integer.parseInt(cricketChirps);
 
-                double tempC = (double)chirps/3 + 4;
-                double tempF = tempC * 9 / 5 + 32;
+                    double tempC = (double) chirps / 3 + 4;
+                    double tempF = tempC * 9 / 5 + 32;
 
-                String outputTempStr = getString(R.string.temperature_is) + "\n" + df.format(tempC) +
-                        " C\n" + df.format(tempF) + " F";
+                    String outputTempStr = getString(R.string.temperature_is) + "\n" + df.format(tempC) +
+                            " C\n" + df.format(tempF) + " F";
 
-                tvOutputTemp.setText(outputTempStr);
+                    tvOutputTemp.setText(outputTempStr);
 
-                tvOutputTemp.setVisibility(View.VISIBLE);
+                    tvOutputTemp.setVisibility(View.VISIBLE);
+                }
             }
 
         });
